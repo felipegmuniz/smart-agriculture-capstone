@@ -7,9 +7,9 @@
 
 ## 📁 Files
 
-- `choose_your_own_report.Rmd`: R Markdown report of the project
-- `choose_your_own_report.pdf`: Knitted PDF version of the report
-- `choose_your_own_script.R`: Standalone R script that loads the dataset, trains the model, and outputs accuracies
+- `choose_your_own_report_Felipe_Muniz.Rmd`: R Markdown report of the project
+- `choose_your_own_report_Felipe_Muniz.pdf`: Knitted PDF version of the report
+- `choose_your_own_script_Felipe_Muniz.R`: Standalone R script that loads the dataset, trains the model, and outputs accuracies
 - `Crop_recommendation.csv`: Dataset used in this project
 
 ## 📊 Dataset Source
